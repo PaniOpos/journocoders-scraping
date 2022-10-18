@@ -1,12 +1,35 @@
 [
   {
+    "id": 6230636,
+    "slug": "kritieke-situatie-door-verwoesting-derde-van-elektriciteitscentrales-oekraine",
+    "type": "article",
+    "title": "'Kritieke situatie' door verwoesting derde van elektriciteitscentrales Oekraïne",
+    "subtitle": null,
+    "published_at": "2022-10-18T13:42:14+02:00",
+    "updated_at": "2022-10-18T13:42:15+02:00",
+    "media_id": "miixdyeayb28",
+    "duration": null,
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6230636/kritieke-situatie-door-verwoesting-derde-van-elektriciteitscentrales-oekraine.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6230635,
     "slug": "landelijke-politienummers-moeilijk-of-zelfs-niet-bereikbaar-door-storing",
     "type": "article",
     "title": "Landelijke politienummers moeilijk of zelfs niet bereikbaar door storing",
     "subtitle": null,
     "published_at": "2022-10-18T13:40:18+02:00",
-    "updated_at": "2022-10-18T13:40:18+02:00",
+    "updated_at": "2022-10-18T13:46:58+02:00",
     "media_id": "2duxykeay8s2",
     "duration": null,
     "canonical_section": {
@@ -208,12 +231,12 @@
   },
   {
     "id": 6230605,
-    "slug": "problemen-op-schiphol-zijn-nog-lang-niet-voorbij",
+    "slug": "problemen-op-schiphol-zijn-nog-lang-niet-voorbij-mensen-kiezen-voor-een-andere-baan",
     "type": "article",
-    "title": "Problemen op Schiphol zijn nog lang niet voorbij",
+    "title": "Problemen op Schiphol zijn nog lang niet voorbij: 'Mensen kiezen voor een andere baan'",
     "subtitle": null,
     "published_at": "2022-10-18T12:00:52+02:00",
-    "updated_at": "2022-10-18T12:06:12+02:00",
+    "updated_at": "2022-10-18T13:47:33+02:00",
     "media_id": "cyzxb9fa6uv4",
     "duration": null,
     "canonical_section": {
@@ -225,7 +248,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/economie/6230605/problemen-op-schiphol-zijn-nog-lang-niet-voorbij.html",
+    "url": "/economie/6230605/problemen-op-schiphol-zijn-nog-lang-niet-voorbij-mensen-kiezen-voor-een-andere-baan.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/sport-overig/6230564/nadine-visser-kiest-na-breuk-met-bennema-voor-zelfde-coach-als-femke-bol.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6230563,
-    "slug": "ravage-na-dodelijk-ongeluk-op-in-dichte-mist-gehulde-n305",
-    "type": "video",
-    "title": "Ravage na dodelijk ongeluk op in dichte mist gehulde N305",
-    "subtitle": "Video",
-    "published_at": "2022-10-18T09:11:26+02:00",
-    "updated_at": "2022-10-18T09:11:27+02:00",
-    "media_id": "oh8x0nxame77",
-    "duration": "0:39",
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6230563/ravage-na-dodelijk-ongeluk-op-in-dichte-mist-gehulde-n305.html",
     "open_new_window": false,
     "partner": null
   }
