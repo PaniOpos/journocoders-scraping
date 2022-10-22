@@ -1,5 +1,28 @@
 [
   {
+    "id": 6231615,
+    "slug": "ac-milan-naast-koploper-napoli-na-zege-op-monza-van-berlusconi",
+    "type": "article",
+    "title": "AC Milan naast koploper Napoli na zege op Monza van Berlusconi",
+    "subtitle": null,
+    "published_at": "2022-10-22T20:01:14+02:00",
+    "updated_at": "2022-10-22T20:01:15+02:00",
+    "media_id": "mlfx1z1airs3",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6231615/ac-milan-naast-koploper-napoli-na-zege-op-monza-van-berlusconi.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6231613,
     "slug": "kokcu-over-weigeren-onelove-band-ik-wilde-geen-uithangbord-zijn",
     "type": "article",
@@ -277,13 +300,13 @@
   },
   {
     "id": 6231587,
-    "slug": "kwetsbaar-ajax-bij-rust-nog-in-evenwicht-met-rkc",
+    "slug": "berghuis-zet-ajax-met-harde-knal-op-voorsprong-in-waalwijk",
     "type": "article",
-    "title": "Kwetsbaar Ajax bij rust nog in evenwicht met RKC",
+    "title": "Berghuis zet Ajax met harde knal op voorsprong in Waalwijk",
     "subtitle": "Liveblog Eredivisie",
     "published_at": "2022-10-22T16:03:45+02:00",
-    "updated_at": "2022-10-22T19:35:53+02:00",
-    "media_id": "869xdxyafwux",
+    "updated_at": "2022-10-22T20:00:05+02:00",
+    "media_id": "1hgxfy4aub3t",
     "duration": null,
     "canonical_section": {
       "id": 1772338,
@@ -294,7 +317,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/voetbal/6231587/kwetsbaar-ajax-bij-rust-nog-in-evenwicht-met-rkc.html",
+    "url": "/voetbal/6231587/berghuis-zet-ajax-met-harde-knal-op-voorsprong-in-waalwijk.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/voetbal/6231577/haaland-weer-goud-waard-voor-city-blamage-liverpool-voor-duel-met-ajax.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6231575,
-    "slug": "helmond-sport-zet-aanvoerder-uit-selectie-na-kritische-uitspraken-over-reserverol",
-    "type": "article",
-    "title": "Helmond Sport zet aanvoerder uit selectie na kritische uitspraken over reserverol",
-    "subtitle": null,
-    "published_at": "2022-10-22T15:04:37+02:00",
-    "updated_at": "2022-10-22T15:19:11+02:00",
-    "media_id": "tv6xbd9awr06",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6231575/helmond-sport-zet-aanvoerder-uit-selectie-na-kritische-uitspraken-over-reserverol.html",
     "open_new_window": false,
     "partner": null
   }
