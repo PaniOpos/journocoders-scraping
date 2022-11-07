@@ -1,12 +1,35 @@
 [
   {
+    "id": 6234650,
+    "slug": "politie-voert-actievoerders-tegen-zwarte-piet-af-in-gemeentehuis-emmen",
+    "type": "video",
+    "title": "Politie voert actievoerders tegen Zwarte Piet af in gemeentehuis Emmen",
+    "subtitle": "Video",
+    "published_at": "2022-11-07T20:43:59+01:00",
+    "updated_at": "2022-11-07T20:44:14+01:00",
+    "media_id": "q91xne9ag7h5",
+    "duration": "0:40",
+    "canonical_section": {
+      "id": 1771435,
+      "slug": "binnenland",
+      "type": "default",
+      "name": "Binnenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/binnenland/6234650/politie-voert-actievoerders-tegen-zwarte-piet-af-in-gemeentehuis-emmen.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6234537,
     "slug": "rutte-roept-op-tot-meer-solidariteit-met-arme-landen-op-klimaattop-egypte",
     "type": "article",
     "title": "Rutte roept op tot meer solidariteit met arme landen op klimaattop Egypte",
     "subtitle": null,
     "published_at": "2022-11-07T20:31:16+01:00",
-    "updated_at": "2022-11-07T20:37:45+01:00",
+    "updated_at": "2022-11-07T20:44:26+01:00",
     "media_id": "seoxjayabrsj",
     "duration": null,
     "canonical_section": {
@@ -185,12 +208,12 @@
   },
   {
     "id": 6234573,
-    "slug": "handbalsters-rekenen-in-tweede-duel-op-ek-eenvoudig-af-met-gastland-noord-macedonie",
+    "slug": "handbalsters-rekenen-in-tweede-duel-op-ek-eenvoudig-af-met-noord-macedonie",
     "type": "article",
-    "title": "Handbalsters rekenen in tweede duel op EK eenvoudig af met gastland Noord-Macedonië",
+    "title": "Handbalsters rekenen in tweede duel op EK eenvoudig af met Noord-Macedonië",
     "subtitle": null,
     "published_at": "2022-11-07T19:29:29+01:00",
-    "updated_at": "2022-11-07T20:31:26+01:00",
+    "updated_at": "2022-11-07T20:40:25+01:00",
     "media_id": "zfgx20nalivs",
     "duration": null,
     "canonical_section": {
@@ -202,7 +225,7 @@
       "media_id": null,
       "partner": null
     },
-    "url": "/sport-overig/6234573/handbalsters-rekenen-in-tweede-duel-op-ek-eenvoudig-af-met-gastland-noord-macedonie.html",
+    "url": "/sport-overig/6234573/handbalsters-rekenen-in-tweede-duel-op-ek-eenvoudig-af-met-noord-macedonie.html",
     "open_new_window": false,
     "partner": null
   },
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/tech/6234628/trump-beweert-dat-sociaal-netwerk-truth-social-zonder-hem-zal-instorten.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6234624,
-    "slug": "schreuder-ziet-voordeel-van-loting-ajax-ken-union-beter-dan-de-franse-ploegen",
-    "type": "article",
-    "title": "Schreuder ziet voordeel van loting Ajax: 'Ken Union beter dan de Franse ploegen'",
-    "subtitle": null,
-    "published_at": "2022-11-07T17:30:42+01:00",
-    "updated_at": "2022-11-07T17:30:50+01:00",
-    "media_id": "oz9xkf7asbja",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6234624/schreuder-ziet-voordeel-van-loting-ajax-ken-union-beter-dan-de-franse-ploegen.html",
     "open_new_window": false,
     "partner": null
   }
