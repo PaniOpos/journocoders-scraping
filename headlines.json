@@ -1,12 +1,35 @@
 [
   {
+    "id": 6236379,
+    "slug": "oranjevrouwen-treffen-tegenstander-ek-finale-2017",
+    "type": "article",
+    "title": "Oranjevrouwen treffen tegenstander EK-finale 2017",
+    "subtitle": "Liveblog voetbal",
+    "published_at": "2022-11-15T19:34:32+01:00",
+    "updated_at": "2022-11-15T19:41:56+01:00",
+    "media_id": "8ylxxv1asclb",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6236379/oranjevrouwen-treffen-tegenstander-ek-finale-2017.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6236382,
     "slug": "nederlands-elftal-zet-voet-op-qatarese-bodem",
     "type": "article",
     "title": "Nederlands elftal zet voet op Qatarese bodem",
     "subtitle": "In beeld",
     "published_at": "2022-11-15T19:27:05+01:00",
-    "updated_at": "2022-11-15T19:27:06+01:00",
+    "updated_at": "2022-11-15T19:29:19+01:00",
     "media_id": "qu4x011ahaoq",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wetenschap/6236342/spermaproductie-neemt-wereldwijd-nog-sneller-af-dan-gedacht.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6236346,
-    "slug": "raketten-slaan-in-op-wooncomplexen-in-kyiv",
-    "type": "video",
-    "title": "Raketten slaan in op wooncomplexen in Kyiv",
-    "subtitle": "Video",
-    "published_at": "2022-11-15T16:25:48+01:00",
-    "updated_at": "2022-11-15T16:25:49+01:00",
-    "media_id": "ifqxhsza4alk",
-    "duration": "0:33",
-    "canonical_section": {
-      "id": 1771436,
-      "slug": "buitenland",
-      "type": "default",
-      "name": "Buitenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/buitenland/6236346/raketten-slaan-in-op-wooncomplexen-in-kyiv.html",
     "open_new_window": false,
     "partner": null
   }
