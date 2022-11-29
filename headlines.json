@@ -1,5 +1,28 @@
 [
   {
+    "id": 6239131,
+    "slug": "oranje-begint-met-de-roon-en-klaassen-aan-wk-duel-met-qatar",
+    "type": "article",
+    "title": "Oranje begint met De Roon en Klaassen aan WK-duel met Qatar",
+    "subtitle": null,
+    "published_at": "2022-11-29T14:48:21+01:00",
+    "updated_at": "2022-11-29T14:48:22+01:00",
+    "media_id": "5afxn9wasdkw",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772307,
+      "slug": "wk-voetbal",
+      "type": "files",
+      "name": "WK voetbal",
+      "style": "nusport",
+      "media_id": "m1mxoqoan7eu",
+      "partner": null
+    },
+    "url": "/wk-voetbal/6239131/oranje-begint-met-de-roon-en-klaassen-aan-wk-duel-met-qatar.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6239121,
     "slug": "burgers-kunnen-belastingdienst-helpen-in-zoektocht-naar-sluwe-constructies",
     "type": "article",
@@ -121,7 +144,7 @@
     "title": "ProRail vindt eeuwenoude flessenpost in perronoverkapping station Leeuwarden",
     "subtitle": null,
     "published_at": "2022-11-29T13:17:17+01:00",
-    "updated_at": "2022-11-29T13:17:18+01:00",
+    "updated_at": "2022-11-29T14:48:46+01:00",
     "media_id": "p6nxf6fa21yz",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/dieren/6239067/kleinste-aantal-eikenprocessievlinders-sinds-2013-volgend-jaar-minder-overlast.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6239069,
-    "slug": "wk-baas-stelt-aantal-overleden-arbeiders-in-qatar-bij-van-3-naar-400-tot-500",
-    "type": "article",
-    "title": "WK-baas stelt aantal overleden arbeiders in Qatar bij van 3 naar 400 tot 500",
-    "subtitle": null,
-    "published_at": "2022-11-29T11:06:00+01:00",
-    "updated_at": "2022-11-29T14:35:44+01:00",
-    "media_id": "btdxxb6ae7ev",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772307,
-      "slug": "wk-voetbal",
-      "type": "files",
-      "name": "WK voetbal",
-      "style": "nusport",
-      "media_id": "m1mxoqoan7eu",
-      "partner": null
-    },
-    "url": "/wk-voetbal/6239069/wk-baas-stelt-aantal-overleden-arbeiders-in-qatar-bij-van-3-naar-400-tot-500.html",
     "open_new_window": false,
     "partner": null
   }
