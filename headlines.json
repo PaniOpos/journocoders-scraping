@@ -1,28 +1,5 @@
 [
   {
-    "id": 6240724,
-    "slug": "mariette-hamer-seksueel-wangedrag-is-geen-incident-het-zit-in-onze-cultuur",
-    "type": "article",
-    "title": "Mariëtte Hamer: 'Seksueel wangedrag is geen incident, het zit in onze cultuur'",
-    "subtitle": null,
-    "published_at": "2022-12-07T10:14:37+01:00",
-    "updated_at": "2022-12-07T10:14:38+01:00",
-    "media_id": "1tbxru9avkh4",
-    "duration": null,
-    "canonical_section": {
-      "id": 1771435,
-      "slug": "binnenland",
-      "type": "default",
-      "name": "Binnenland",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/binnenland/6240724/mariette-hamer-seksueel-wangedrag-is-geen-incident-het-zit-in-onze-cultuur.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6240727,
     "slug": "rijimpressie-peugeot-408",
     "type": "video",
@@ -456,6 +433,29 @@
       "partner": null
     },
     "url": "/algemeen/6240629/dood-oud-leiders-veroorzaakte-vaak-onrust-moet-china-bang-zijn.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6240587,
+    "slug": "waarom-kan-je-niet-het-hele-jaar-door-een-andere-zorgverzekering-afsluiten",
+    "type": "article",
+    "title": "Waarom kan je niet het hele jaar door een andere zorgverzekering afsluiten?",
+    "subtitle": null,
+    "published_at": "2022-12-07T06:11:52+01:00",
+    "updated_at": "2022-12-07T09:45:32+01:00",
+    "media_id": "ekzxyorawtm5",
+    "duration": null,
+    "canonical_section": {
+      "id": 99,
+      "slug": "economie",
+      "type": "default",
+      "name": "Economie",
+      "style": "nuzakelijk",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/economie/6240587/waarom-kan-je-niet-het-hele-jaar-door-een-andere-zorgverzekering-afsluiten.html",
     "open_new_window": false,
     "partner": null
   }
