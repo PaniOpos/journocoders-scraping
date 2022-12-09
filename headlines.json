@@ -1,5 +1,28 @@
 [
   {
+    "id": 6241174,
+    "slug": "meerdere-explosies-en-grote-brand-in-russisch-winkelcentrum",
+    "type": "video",
+    "title": "Meerdere explosies en grote brand in Russisch winkelcentrum",
+    "subtitle": "Video",
+    "published_at": "2022-12-09T10:28:16+01:00",
+    "updated_at": "2022-12-09T10:28:17+01:00",
+    "media_id": "gnuxcz9a4tvt",
+    "duration": "0:45",
+    "canonical_section": {
+      "id": 1771436,
+      "slug": "buitenland",
+      "type": "default",
+      "name": "Buitenland",
+      "style": "nu",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/buitenland/6241174/meerdere-explosies-en-grote-brand-in-russisch-winkelcentrum.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
     "id": 6241158,
     "slug": "vu-moet-bewijzen-dat-antispieksoftware-zwarte-studente-niet-discrimineerde",
     "type": "article",
@@ -52,7 +75,7 @@
     "title": "Wonder Woman 3 op losse schroeven door opstappen regisseur Patty Jenkins",
     "subtitle": null,
     "published_at": "2022-12-09T09:46:10+01:00",
-    "updated_at": "2022-12-09T10:05:32+01:00",
+    "updated_at": "2022-12-09T10:26:41+01:00",
     "media_id": "02gxujgac47v",
     "duration": null,
     "canonical_section": {
@@ -433,29 +456,6 @@
       "partner": null
     },
     "url": "/wk-voetbal/6241108/laatste-kans-messi-op-wk-goud-dit-keer-houdt-heel-argentinie-van-hem.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6241031,
-    "slug": "drie-keer-zo-veel-gastgezinnen-voor-oekrainers-nodig-in-de-randstad",
-    "type": "article",
-    "title": "Drie keer zo veel gastgezinnen voor Oekraïners nodig in de Randstad",
-    "subtitle": null,
-    "published_at": "2022-12-09T05:32:49+01:00",
-    "updated_at": "2022-12-09T09:28:33+01:00",
-    "media_id": "pg7xvgia44xp",
-    "duration": null,
-    "canonical_section": {
-      "id": 1778980,
-      "slug": "spanningen-oekraine",
-      "type": "default",
-      "name": "Oorlog in Oekraïne",
-      "style": "nu",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/spanningen-oekraine/6241031/drie-keer-zo-veel-gastgezinnen-voor-oekrainers-nodig-in-de-randstad.html",
     "open_new_window": false,
     "partner": null
   }
