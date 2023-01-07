@@ -1,51 +1,5 @@
 [
   {
-    "id": 6246096,
-    "slug": "weghorst-staat-voor-droomtransfer-naar-manchester-united-van-ten-hag",
-    "type": "article",
-    "title": "Weghorst staat voor droomtransfer naar Manchester United van Ten Hag",
-    "subtitle": null,
-    "published_at": "2023-01-07T20:46:20+01:00",
-    "updated_at": "2023-01-07T20:46:21+01:00",
-    "media_id": "2e0xwdyals8y",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246096/weghorst-staat-voor-droomtransfer-naar-manchester-united-van-ten-hag.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
-    "id": 6246095,
-    "slug": "az-verspeelt-in-slotfase-dure-punten-tegen-vitesse-en-zakt-naar-vijfde-plek",
-    "type": "article",
-    "title": "AZ verspeelt in slotfase dure punten tegen Vitesse en zakt naar vijfde plek",
-    "subtitle": null,
-    "published_at": "2023-01-07T20:44:44+01:00",
-    "updated_at": "2023-01-07T20:44:45+01:00",
-    "media_id": "6p6xyzxanwtg",
-    "duration": null,
-    "canonical_section": {
-      "id": 1772338,
-      "slug": "voetbal",
-      "type": "default",
-      "name": "Voetbal",
-      "style": "nusport",
-      "media_id": null,
-      "partner": null
-    },
-    "url": "/voetbal/6246095/az-verspeelt-in-slotfase-dure-punten-tegen-vitesse-en-zakt-naar-vijfde-plek.html",
-    "open_new_window": false,
-    "partner": null
-  },
-  {
     "id": 6246094,
     "slug": "gewonden-bij-nieuwe-protesten-tegen-de-regering-in-peru",
     "type": "article",
@@ -167,7 +121,7 @@
     "title": "Buurlanden raden reizen naar China af, Nederland heeft nog geel reisadvies",
     "subtitle": null,
     "published_at": "2023-01-07T19:38:14+01:00",
-    "updated_at": "2023-01-07T20:48:01+01:00",
+    "updated_at": "2023-01-07T20:10:52+01:00",
     "media_id": "qgzxlcnanikj",
     "duration": null,
     "canonical_section": {
@@ -456,6 +410,52 @@
       "partner": null
     },
     "url": "/buitenland/6246073/zo-wordt-wereldwijd-het-orthodoxe-kerstfeest-gevierd.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246072,
+    "slug": "go-ahead-op-voorsprong-in-sittard-psv-treft-sparta",
+    "type": "article",
+    "title": "Go Ahead op voorsprong in Sittard, PSV treft Sparta",
+    "subtitle": "Liveblog Eredivisie",
+    "published_at": "2023-01-07T16:04:24+01:00",
+    "updated_at": "2023-01-07T20:40:47+01:00",
+    "media_id": "6b5xv07a5hqd",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772338,
+      "slug": "voetbal",
+      "type": "default",
+      "name": "Voetbal",
+      "style": "nusport",
+      "media_id": null,
+      "partner": null
+    },
+    "url": "/voetbal/6246072/go-ahead-op-voorsprong-in-sittard-psv-treft-sparta.html",
+    "open_new_window": false,
+    "partner": null
+  },
+  {
+    "id": 6246063,
+    "slug": "griekspoor-verovert-eerste-atp-titel-door-zwaarbevochten-zege-in-india",
+    "type": "article",
+    "title": "Griekspoor verovert eerste ATP-titel door zwaarbevochten zege in India",
+    "subtitle": null,
+    "published_at": "2023-01-07T15:26:27+01:00",
+    "updated_at": "2023-01-07T16:40:50+01:00",
+    "media_id": "jbrx44cab5of",
+    "duration": null,
+    "canonical_section": {
+      "id": 1772432,
+      "slug": "tennis",
+      "type": "default",
+      "name": "Tennis",
+      "style": "nusport",
+      "media_id": "m1oxohpan0gq",
+      "partner": null
+    },
+    "url": "/tennis/6246063/griekspoor-verovert-eerste-atp-titel-door-zwaarbevochten-zege-in-india.html",
     "open_new_window": false,
     "partner": null
   }
